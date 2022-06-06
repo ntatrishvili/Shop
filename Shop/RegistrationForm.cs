@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Shop
 {
-    public partial class Registration : Form
+    public partial class RegistrationForm : Form
     {
         User user = new User();
-        public Registration()
+        public RegistrationForm()
         {
             InitializeComponent();
         }

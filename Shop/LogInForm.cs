@@ -18,7 +18,7 @@ namespace Shop
         }
         private void lblRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Registration registration = new Registration();
+            RegistrationForm registration = new RegistrationForm();
             registration.Show();
             this.Hide();
         }

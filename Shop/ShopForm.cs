@@ -19,7 +19,12 @@ namespace Shop
             InitializeComponent();
         }
 
-        private void ShopForm_Load(object sender, EventArgs e)
+        private void buttonCart_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
